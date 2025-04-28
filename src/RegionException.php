@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Zhineng\Region;
+namespace Zhineng\RegionChina;
 
 final class RegionException extends \Exception
 {

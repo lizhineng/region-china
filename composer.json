@@ -1,5 +1,5 @@
 {
-    "name": "lizhineng/region",
+    "name": "lizhineng/region-china",
     "description": "China region library for PHP.",
     "type": "library",
     "require": {
@@ -8,12 +8,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zhineng\\Region\\": "src/"
+            "Zhineng\\RegionChina\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Zhineng\\Region\\Tests\\": "tests/"
+            "Zhineng\\RegionChina\\Tests\\": "tests/"
         }
     },
     "authors": [

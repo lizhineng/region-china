@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Zhineng\Region\Build;
+namespace Zhineng\RegionChina\Build;
 
 use Symfony\Component\VarExporter\VarExporter;
 

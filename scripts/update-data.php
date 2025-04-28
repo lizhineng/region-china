@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 require_once __DIR__.'/../vendor/autoload.php';
 
-use Zhineng\Region\Build\CodeToNameHandler;
-use Zhineng\Region\Build\RelationshipHandler;
-use Zhineng\Region\Build\TopLevelHandler;
+use Zhineng\RegionChina\Build\CodeToNameHandler;
+use Zhineng\RegionChina\Build\RelationshipHandler;
+use Zhineng\RegionChina\Build\TopLevelHandler;
 
 $doc = new \DOMDocument;
 $doc->loadHTMLFile(__DIR__.'/../resources/raw.html', \LIBXML_NOERROR);

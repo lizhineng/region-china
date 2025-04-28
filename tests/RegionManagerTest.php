@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Zhineng\Region\Tests;
+namespace Zhineng\RegionChina\Tests;
 
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
-use Zhineng\Region\RegionException;
-use Zhineng\Region\RegionManager;
+use Zhineng\RegionChina\RegionException;
+use Zhineng\RegionChina\RegionManager;
 
 #[CoversClass(RegionManager::class)]
 final class RegionManagerTest extends TestCase
