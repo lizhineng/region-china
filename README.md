@@ -1,5 +1,7 @@
 # China region library for PHP
 
+![MIT License](https://img.shields.io/github/license/lizhineng/region-china)
+
 This library helps you manage regional data for mainland China, updated
 annually based on information from the _Ministry of Civil Affairs of
 the People's Republic of China_. The latest update was applied on
