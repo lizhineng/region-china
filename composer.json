@@ -1,0 +1,23 @@
+{
+    "name": "lizhineng/region",
+    "description": "China region library for PHP.",
+    "type": "library",
+    "require": {
+        "php": "^8.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhineng\\Region\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Li Zhineng",
+            "email": "im@zhineng.li"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-exporter": "^7.2"
+    }
+}
