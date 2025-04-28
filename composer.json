@@ -11,6 +11,11 @@
             "Zhineng\\Region\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Zhineng\\Region\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Li Zhineng",
@@ -20,5 +25,8 @@
     "require-dev": {
         "symfony/var-exporter": "^7.2",
         "phpunit/phpunit": "^12"
+    },
+    "scripts": {
+        "test": "phpunit"
     }
 }
