@@ -53,3 +53,7 @@ $regions->getNodes($guangdong = 440000);
 // Retrieve district codes for the Guangzhou city
 $regions->getNodes($guangzhou = 440100);
 ```
+
+## License
+
+The library is released under the [MIT License](LICENSE.md).
