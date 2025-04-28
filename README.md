@@ -3,7 +3,7 @@
 This library helps you manage regional data for mainland China, updated
 annually based on information from the _Ministry of Civil Affairs of
 the People's Republic of China_. The latest update was applied on
-[April 4, 2025](https://www.mca.gov.cn/mzsj/xzqh/2025/202401xzqh.html).
+[April 25, 2025](https://www.mca.gov.cn/mzsj/xzqh/2025/202401xzqh.html).
 
 ## Usage
 
