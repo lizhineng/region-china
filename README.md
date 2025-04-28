@@ -7,6 +7,15 @@ annually based on information from the _Ministry of Civil Affairs of
 the People's Republic of China_. The latest update was applied on
 [April 25, 2025](https://www.mca.gov.cn/mzsj/xzqh/2025/202401xzqh.html).
 
+## Installment
+
+The library requires a minimum of PHP 8.4 and can be installed through
+[Composer](https://getcomposer.org):
+
+```bash
+composer require lizhineng/region-china
+```
+
 ## Usage
 
 The library includes built-in data sourced directly from the authority,
